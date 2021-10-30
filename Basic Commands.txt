@@ -1,0 +1,24 @@
+PING 
+used to send ICMP echo request packets to a destination
+used to check connectivity and response. 
+
+TTL - Time to leave . It should be +ve. If it is 0.
+
+Round trip time - time for the pkt to and fro
+
+TRACERT 
+To check/trace the path of the data/pkt. It will show the path packets take when when we send from a source to destination
+
+IPCONFIG 
+It allows to configure the network interfaces and view information about them.
+Shows basic configuration of your network.
+
+NSLOOKUP
+It will look up the IP addresses associated with a domain name.
+
+NETSTAT 
+Shows the network statistics. Displays the incoming and outgoing network connections and info. Shows the open connections. 
+
+ARP Address Resolution Protocol
+Maps the IP with the MAC address. 2 types : static and dynamic.
+Static ARP entry - computer manually enters the link between the EThernet MAC address and the IP address.
